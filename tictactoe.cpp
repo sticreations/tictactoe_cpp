@@ -15,7 +15,7 @@ TODOS:
 Map which contains playground
 Init fills stringarray with empty spaces
 setDot draws a value on the field
-*//
+*/
 class Map {
     string field[3][3];
     public:
