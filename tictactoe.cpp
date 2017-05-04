@@ -26,7 +26,6 @@ class Map {
 };
 
 void Map::setDot(string value, int x, int y){
-    cout << "int x " << x <<"int y " <<y <<"\n";
     field[x][y] = value;
 }
 
