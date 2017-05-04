@@ -1,6 +1,5 @@
 #include <string>
 #include <iostream>
-#include <list>
 using namespace std;
 
 
@@ -115,8 +114,6 @@ void Player::moveDown() {
     } 
     m->setDot(mark,x,y);
 }
-
-
 
 const int ESCAPE=27;
 
